@@ -15,7 +15,7 @@ body {
     padding: 40px;
     background-color: #F0E8C2;
     border-radius: 24px;
-    margin: 80px auto 48px;
+    margin: 80px auto;
 }
 
 .divider {
@@ -40,7 +40,13 @@ ul li {
 }
 
 footer {
-    color: #f7f7f7c5;
+    color: #f7f7f7;
     text-align: center;
     padding-bottom: 48px;
+}
+
+footer img {
+    vertical-align: middle;
+    width: 20px;
+    color: #f7f7f7;
 }
