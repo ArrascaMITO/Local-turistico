@@ -5,7 +5,8 @@
 
 
 body {
-    background-image: url(assests/Fundo\ preto.jpg);
+    background-image: url(assets/Fundo\ preto.jpg);
+    background-size: cover;
 }
 
 #page {
@@ -14,7 +15,7 @@ body {
     padding: 40px;
     background-color: #F0E8C2;
     border-radius: 24px;
-    margin: 80px auto;
+    margin: 80px auto 48px;
 }
 
 .divider {
@@ -36,4 +37,10 @@ h1, h2 {
 
 ul li {
     color: rgb(8, 23, 231);
+}
+
+footer {
+    color: #f7f7f7c5;
+    text-align: center;
+    padding-bottom: 48px;
 }
